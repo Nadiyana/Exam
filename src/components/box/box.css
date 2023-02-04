@@ -1,0 +1,38 @@
+.buttons{
+    max-width: 1200px;
+    align-items: center;
+    }
+    .button-1{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 300px;
+        margin-top: 100px;
+    }
+    .button-1-1{
+    background-color: red;
+    font-size: 30px;
+    margin: 40px;
+    padding: 50px;
+    }
+    .button-1-2{
+        background-color: rgb(148, 20, 146);
+        font-size: 30px;
+        margin: 40px;
+        padding: 50px;
+    }
+    .button-1-2 img{
+     
+
+    }
+    .button-1-3{
+        background-color: rgb(24, 239, 42);
+        font-size: 30px;
+        margin: 40px;
+        padding: 50px;
+    }
+    .button-1-4{
+        background-color: rgb(30, 86, 189);
+        font-size: 30px;
+        margin: 40px;
+        padding: 50px;
+        }
